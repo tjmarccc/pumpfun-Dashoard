@@ -1,6 +1,6 @@
 Pump.fun Launchpad Pulse
 A fun, real-time analytics dashboard for tracking Solana ecosystem memecoins using the CoinGecko API. Check out live metrics like daily token listings, top gainers, and newly launched coins, all in a sleek brown and blue design that works on both desktop and mobile. This is an open-source project, and the source code, including the public CoinGecko API key, is freely accessible for anyone to explore!
-View the Live Dashboard 
+View the Live Dashboard: https://pumpfun-dashoard.vercel.app/
 Features
     • Real-Time Data: Pulls live Solana ecosystem token data from CoinGecko. 
     • Key Metrics:
@@ -17,7 +17,7 @@ Features
         ◦ Hover effects, smooth transitions, and responsive layouts. 
     • Refresh Mechanism: Updates every 2 minutes, with a manual refresh button. 
 Accessing the Dashboard
-Just visit the live Vercel URL: https://pump-fun-launchpad-pulse.vercel.app  No setup needed! The dashboard works in any modern browser (Chrome, Firefox, etc.).
+Just visit the live Vercel URL: [(https://pumpfun-dashoard.vercel.app/)](https://pumpfun-dashoard.vercel.app/)  No setup needed! The dashboard works in any modern browser (Chrome, Firefox, etc.).
 For Developers
 Want to fork or modify the project? Here’s how to deploy your own version on Vercel:
     1. Clone the Repository:
